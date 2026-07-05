@@ -4,7 +4,10 @@ A small desktop app that finds your OpenEVSE charging station on your home
 network and helps you bookmark its web interface — no need to hunt through
 your router's device list for an IP address.
 
-## For charger owners
+<img width="835" height="412" alt="Screenshot 2026-07-05 131753" src="https://github.com/user-attachments/assets/27bc2458-b195-45fd-b277-a3bbc5aab77c" />
+
+
+## For OpenEVSE station owners
 
 1. **Download** the app for your computer from the
    [Releases](https://github.com/OpenEVSE/openevse_finder/releases) page:
